@@ -1,6 +1,6 @@
 # oro-compliance
 
-GDPR/PII compliance module for the orobobos ecosystem.
+GDPR/PII compliance module for the ourochronos ecosystem.
 
 ## Features
 
